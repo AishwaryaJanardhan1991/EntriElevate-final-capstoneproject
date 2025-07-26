@@ -2,6 +2,7 @@
 Project_Final_capstone_entrielevate_BRFSS_nutrition_physicalactivity_obesity_data_analysis_submission repo
 
 Final Capstone Project EntriElevate
+
 This project focuses on analyzing and predicting public health metrics such as obesity rates, nutrition indicators, and physical activity levels using a cleaned dataset of 33 features and over 10,000 records. The goal is to build a reliable machine learning model that accurately estimates the Data_Value—a key health measurement—based on demographic, geographical, and categorical variables. Raw dataset liks: The dataset is collected from link: https://catalog.data.gov/dataset/nutrition-physical-activity-and-obesity-behavioral-risk-factor-surveillance-system (link from DATA.GOVT) Googledrive link: https://drive.google.com/file/d/1ndiEhnUz800iv3LWfrBrfto7xjVMVzPL/view?usp=sharing
 
 Steps Done in the Project
